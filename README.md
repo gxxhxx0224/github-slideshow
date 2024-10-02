@@ -1,13 +1,6 @@
-# Your GitHub Learning Lab Repository for Introducing GitHub
-
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. See a word you don't understand? We've included an emoji 📖 next to some key terms. Click on it to see its definition.
-
-Oh! I haven't introduced myself...
-
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
-
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
-
-I'll meet you over there, can't wait to get started!
-
-This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+<img src="https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/56ae940ad7b64508aaf833e7d9dd3cb2_9366/가젤.jpg" srcset="https://assets.adidas.com/images/w_178,h_178,f_auto,q_auto,fl_lossy,c_fill,g_auto/56ae940ad7b64508aaf833e7d9dd3cb2_9366/가젤.jpg 178w,
+https://assets.adidas.com/images/w_186,h_186,f_auto,q_auto,fl_lossy,c_fill,g_auto/56ae940ad7b64508aaf833e7d9dd3cb2_9366/가젤.jpg 186w,
+https://assets.adidas.com/images/w_205,h_205,f_auto,q_auto,fl_lossy,c_fill,g_auto/56ae940ad7b64508aaf833e7d9dd3cb2_9366/가젤.jpg 205w,
+https://assets.adidas.com/images/w_303,h_303,f_auto,q_auto,fl_lossy,c_fill,g_auto/56ae940ad7b64508aaf833e7d9dd3cb2_9366/가젤.jpg 303w,
+https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/56ae940ad7b64508aaf833e7d9dd3cb2_9366/가젤.jpg 383w,
+https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/56ae940ad7b64508aaf833e7d9dd3cb2_9366/가젤.jpg 766w" sizes="(min-width: 960px) 25vw, (min-width: 600px) 33vw, 49vw" alt="originals Yellow 가젤" loading="eager" data-auto-id="product-card-image" class="product-card-image glass-product-card__image performance-item glass-product-card__primary-image" fetchpriority="high" data-inject_ssr_performance_instrument="">
